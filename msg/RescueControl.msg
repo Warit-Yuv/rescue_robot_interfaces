@@ -1,0 +1,6 @@
+bool front_led_on
+bool dropper1_active
+bool dropper2_active
+bool dropper3_active
+bool dropper4_active
+int16 sucker_pwm

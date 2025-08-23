@@ -1,0 +1,7 @@
+bool front_led_state
+bool dropper1_state
+bool dropper2_state
+bool dropper3_state
+bool dropper4_state
+int16 current_servo1_angle
+int16 current_servo2_angle
