@@ -1,2 +1,3 @@
 int16 servo1_angle
 int16 servo2_angle
+int16 sucker_value
